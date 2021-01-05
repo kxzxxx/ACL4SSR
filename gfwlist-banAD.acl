@@ -1494,6 +1494,7 @@
 
 #**********************************************************************
 [bypass_list]
+(^|\.)googleapis\.cn$
 # 本地/局域网地址
 ^(.*\.)?local$
 ^(.*\.)?localhost$
@@ -3735,7 +3736,6 @@
 (^|\.)google\.vn$
 (^|\.)google\.vu$
 (^|\.)google\.ws$
-(^|\.)googleapis\.cn$
 (^|\.)googleapis\.com$
 (^|\.)googleapps\.com$
 (^|\.)googlearth\.com$
@@ -7295,7 +7295,6 @@
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
 (^|\.)goo\.gl$
-(^|\.)googleapis\.cn$
 (^|\.)googleapis\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gstatic\.com$
